@@ -1,2 +1,5 @@
 # CS-Projects
-Projects made as part of the Codecademy Learn C# course.
+## Introduction
+This repository contains projects undertaken as part of Codecademy's Learn C Sharp course.
+## Technologies
+- C#
